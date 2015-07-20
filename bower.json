@@ -1,0 +1,25 @@
+{
+  "name": "lightbox",
+  "version": "0.1.0",
+  "homepage": "https://github.com/FlatPixels/lightbox",
+  "authors": [
+    "FlatPixels"
+  ],
+  "description": "Simple lightbox gallery in JS.",
+  "main": "src/lightbox.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "lightbox",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

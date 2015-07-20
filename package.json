@@ -1,0 +1,23 @@
+{
+  "name": "lightbox",
+  "version": "0.1.0",
+  "description": "Simple lightbox gallery in JS.",
+  "main": "src/lightbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlatPixels/lightbox.git"
+  },
+  "keywords": [
+    "lightbox",
+    "gallery"
+  ],
+  "author": "FlatPixels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlatPixels/lightbox/issues"
+  },
+  "homepage": "https://github.com/FlatPixels/lightbox#readme"
+}
